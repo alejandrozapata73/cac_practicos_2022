@@ -1,0 +1,35 @@
+#principal {
+
+    width: 100%;
+    height: 900px;
+    background-color: antiquewhite;
+    
+}
+
+div {
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    border: 2px solid white;
+    
+}
+
+#div1 {
+
+
+}
+
+#div2 {
+
+    background-color: blue;
+    
+   
+    
+}
+
+#div3 {
+
+    background-color: chartreuse;
+   
+    
+}
